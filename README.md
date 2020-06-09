@@ -4,7 +4,7 @@ Ce répertoire contient un résumé  de tout le savoir en Intelligence Artificie
 
 Les différents algorithmes de machine learning et de leur fonctionnement se trouvent dans le dossier "Cours".
 
-Des exemples de chaque algorithmes mentionnés dans le dossier "Cours" sont présentés dans le dossier "Exemples".
+Des exemples en Python de chaque algorithmes mentionnés dans le dossier "Cours" sont présentés dans le dossier "Exemples".
 
 Des cours concernant les différents tests statistiques ont également été ajoutés dans le dossier "Stats".
 
