@@ -1,12 +1,12 @@
 # machine_learning_courses
 
-Ce dossier contient un résumé  de tout el savoir en Intelligence Artificielle que j'ai aquis au cours des 3 dernières années.
+Ce répertoire contient un résumé  de tout le savoir en Intelligence Artificielle que j'ai aquis au cours des 3 dernières années.
 
-La théorie des algorithmes et de leur fonctionnement se trouve dans le dossier "Cours"
+Les différents algorithmes de machine learning et de leur fonctionnement se trouvent dans le dossier "Cours".
 
-Des exemples de chaque algorithmes mentionnés dans le dossier "Cours" sont présentés dans le dossier "Exemples"
+Des exemples de chaque algorithmes mentionnés dans le dossier "Cours" sont présentés dans le dossier "Exemples".
 
-Des cours concernant les différents tests statistiques ont également été ajoutés dans le dossier "Stats"
+Des cours concernant les différents tests statistiques ont également été ajoutés dans le dossier "Stats".
 
 
 
