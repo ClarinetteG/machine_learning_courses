@@ -13,4 +13,4 @@ Des cours concernant les différents tests statistiques ont également été ajo
 # Résumé de cours de statistiques, machine learning et exemples
 
 
-Si le lien ne marche pas, cliquer ici : https://colab.research.google.com/github/ClarinetteG/machine_learnong_courses/blob/master/EmotionsRecognition.ipynb
+Si le lien ne marche pas, cliquer ici : https://colab.research.google.com/github/ClarinetteG/machine_learning_courses/blob/master/EmotionsRecognition.ipynb
